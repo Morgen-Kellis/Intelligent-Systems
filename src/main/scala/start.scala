@@ -1,3 +1,3 @@
-object main {
-  println("hello World!!")
+object Hello {
+  def main(args: Array[String]) = println("hello World!!")
 }
