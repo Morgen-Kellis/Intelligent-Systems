@@ -1,7 +1,7 @@
 import sbt._
 import Keys._
 
-name := "Banno-Predict"
+name := "Intelligent-Systems"
 
 libraryDependencies ++= Seq(
   "org.scala-lang" % "scala-swing" % "2.9.1",
